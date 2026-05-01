@@ -4,7 +4,7 @@ from datetime import date
 import gspread
 
 # --- CONFIGURATION ---
-SHEET_URL = "YOUR_GOOGLE_SHEET_URL_HERE" # Paste your URL here
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1wXyzRVLhbU3k5nH0VNN45YHR6oUK4RNfICC9ht_lZ8g/edit?usp=sharing" # Paste your URL here
 SCHOOLS = {
     "Radawa": "R123",
     "Guda premsingh": "G456",
